@@ -61,7 +61,7 @@
 	body {
 		position: relative;
 		background-color: #12151D;
-		color: #999;
+		color: #ff00db;
 		color: rgba(255, 255, 255, 0.6);
 		font-family: 'Source Sans Pro';
 		font-weight: 400;
@@ -79,7 +79,7 @@
 		}
 
 	a {
-		color: #fff;
+		color: #ff00db;
 		color: rgba(255, 255, 255, 0.85);
 		text-decoration: none;
 		-moz-transition: color 0.25s ease-in-out;
@@ -89,17 +89,17 @@
 	}
 
 		a:hover {
-			color: #d64760;
+			color: #ff00db;
 		}
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
-		color: #fff;
+		color: #ff00db;
 		letter-spacing: -0.05em;
 	}
 
 	strong, b {
-		color: #fff;
+		color: #ff00db;
 		color: rgba(255, 255, 255, 0.85);
 		font-weight: 600;
 	}
@@ -122,7 +122,7 @@
 
 			ul.contact li a {
 				opacity: 0.35;
-				color: #fff;
+				color: #ff00db;
 				-moz-transition: opacity 0.25s ease-in-out;
 				-webkit-transition: opacity 0.25s ease-in-out;
 				-ms-transition: opacity 0.25s ease-in-out;
