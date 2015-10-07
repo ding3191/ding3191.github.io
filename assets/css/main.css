@@ -60,7 +60,7 @@
 
 	body {
 		position: relative;
-		background-color: #ff00db;
+		background-color: #000000;
 		color: #ff00db;
 		color: rgba(255, 255, 255, 0.6);
 		font-family: 'Source Sans Pro';
@@ -214,10 +214,10 @@
 			}
 
 			body {
+				: url("http://pre02.deviantart.net/3dc3/th/pre/i/2012/232/f/f/hockey_ice_rink_for_nhl_teams_by_topherlee2-d5bsl13.png");
 				background-image: url("http://pre02.deviantart.net/3dc3/th/pre/i/2012/232/f/f/hockey_ice_rink_for_nhl_teams_by_topherlee2-d5bsl13.png");
 				background-image: url("http://pre02.deviantart.net/3dc3/th/pre/i/2012/232/f/f/hockey_ice_rink_for_nhl_teams_by_topherlee2-d5bsl13.png");
-				background-image: url("http://pre02.deviantart.net/3dc3/th/pre/i/2012/232/f/f/hockey_ice_rink_for_nhl_teams_by_topherlee2-d5bsl13.png");
-				background-image: url("http://pre02.deviantart.net/3dc3/th/pre/i/2012/232/f/f/hockey_ice_rink_for_nhl_teams_by_topherlee2-d5bsl13.png");
+				background-image:background-image url("http://pre02.deviantart.net/3dc3/th/pre/i/2012/232/f/f/hockey_ice_rink_for_nhl_teams_by_topherlee2-d5bsl13.png");
 				background-position: center;
 				background-size: auto, 100% 100%, cover;
 				background-repeat: repeat, no-repeat, auto;
